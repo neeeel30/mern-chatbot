@@ -1,3 +1,3 @@
-# mern-chatbot
+# MERN-CHATBOT
 
-# GO TO MASTER BRANCH
+# VISIT BRANCH
